@@ -2,7 +2,7 @@ Assignment 1 - Hello World: Basic Deployment w/ Git, GitHub, Glitch
 ===
 
 Hezekiah Owuor
-http://a1-charlieroberts.glitch.me
+http://a1-hezi-k.glitch.me
 
 This project shows ...
 
